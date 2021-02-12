@@ -1,0 +1,3 @@
+[submodule "EPOS"]
+	path = EPOS
+	url = https://github.com/epournaras/EPOS.git
